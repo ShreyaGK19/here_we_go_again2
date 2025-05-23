@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              0
+            ],
+            [
+              100,
+              0
+            ],
+            [
+              100,
+              80
+            ],
+            [
+              0,
+              80
+            ],
+            [
+              0,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Building Zone"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50,
+              40
+            ],
+            [
+              150,
+              40
+            ],
+            [
+              150,
+              120
+            ],
+            [
+              50,
+              120
+            ],
+            [
+              50,
+              40
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main Street"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50,
+            -20
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            50,
+            20
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            150,
+            -10
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oak Avenue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20,
+            -50
+          ],
+          [
+            40,
+            0
+          ],
+          [
+            60,
+            50
+          ],
+          [
+            80,
+            100
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          60
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120,
+          30
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80,
+          90
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main Street"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50,
+            -20
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            50,
+            20
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            150,
+            -10
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oak Avenue"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20,
+            -50
+          ],
+          [
+            40,
+            0
+          ],
+          [
+            60,
+            50
+          ],
+          [
+            80,
+            100
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          60
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120,
+          30
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80,
+          90
+        ]
+      }
+    }
+  ]
+}
